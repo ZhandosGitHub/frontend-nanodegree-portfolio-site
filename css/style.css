@@ -1,0 +1,70 @@
+/* Default CSS configuraitons */
+* {
+  font-family: "Lato", sans-serif;
+  color: #2d3c49;
+  font-weight: 300;
+}
+
+.logo-position {
+  margin-top: 10px;
+}
+
+.hr-thickened {
+  background-color: #7d97ad;
+  color: #7d97ad;
+  border: solid 1px #7d97ad;
+  height: 1px;
+}
+
+.title-name-default {
+  font-size: 40px;
+  font-weight: 100;
+}
+
+.text-muted {
+  color: #7d97ad;
+}
+
+
+/* Media query for customization for Mobile devices */
+@media screen and (max-width: 412px) {
+  .title-name-mobile {
+    font-size: 25px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+}
+
+
+/* Media query for customization for Tablet or mobile devices in landscape view */
+@media screen and (min-width: 732px) and (max-width: 768px) {
+  .title-name-tablet {
+    font-size: 45px;
+  }
+
+  h2 {
+    font-size: 35px;
+  }
+
+  h3 {
+    font-size: 30px;
+  }
+
+  h4 {
+    font-size: 25px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+}
