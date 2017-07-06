@@ -4,8 +4,8 @@ This is "Built a Portfolio Site" Project, as part of Udacity's "Front End Develo
 
 # Running
 
-* To see online - [Link to Portfolio site](https://zhandosgithub.github.io/Portfolio%20Site/index.html)
-* To see locally - clone the [Project](https://github.com/ZhandosGitHub/frontend-nanodegree-portfolio-site) from GitHub and run Index.html file
+* To see online - see [demo version](https://zhandosgithub.github.io/Portfolio%20Site/index.html) of "Portfolio site" project
+* To see locally - clone the "Portfolio site" project [repository](https://github.com/ZhandosGitHub/frontend-nanodegree-portfolio-site) from GitHub and run Index.html file
 
 # Authors
 
